@@ -406,7 +406,7 @@ main {
   /* Position the front and back side */
   /* Style the front side (fallback if image is missing) */
   /* Style the back side */
-}
+
 main h1 {
   padding: 1rem 10px 0.5rem 10px;
   font-size: 1.5rem;
@@ -482,6 +482,7 @@ main .flip-card-back {
   transform: rotateY(180deg);
 }
 
+}
 /* --------------------------- FOOTER --------------------------- */
 #footerWrapper {
   background-color: #1B55A1;
